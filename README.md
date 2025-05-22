@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Vranda Baheti</h1>
+<h1 align="center">Hello, I'm Vranda Baheti</h1>
 <h3 align="center">A passionate full-stack developer skilled in crafting responsive frontends with React.js and building robust backends with Node.js, Express, and MongoDB—driven by clean code, smart design, and continuous learning.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vranda0108&label=Profile%20views&color=0e75b6&style=flat" alt="vranda0108" /> </p>
